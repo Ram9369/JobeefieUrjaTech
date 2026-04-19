@@ -1,0 +1,9 @@
+node_modules
+<<<<<<< HEAD
+ui
+=======
+dist
+.env
+.vscode
+.DS_Store
+>>>>>>> 7ee9aa8c4ab8f8219d197dbe87d4e924a52f53ae
